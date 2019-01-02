@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("NslDbInfo")]
+[assembly: AssemblyTitle("NslDbInfoV1")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("NslDbInfo")]
+[assembly: AssemblyProduct("NslDbInfoV1")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("a4256170-5fe6-4f7a-8d44-4e9eca2498e9")]
+[assembly: Guid("9c30c673-ada2-4100-b6cf-f6a42f360b62")]
 
 // Version information for an assembly consists of the following four values:
 //

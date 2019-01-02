@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace NslDbInfo.Properties
+namespace NslDbInfoV1.Properties
 {
 
 
